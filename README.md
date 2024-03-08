@@ -21,7 +21,9 @@
 **Week 2 & 3: Review Data Structures and Algorithms**
 
 * **Online Courses:**
-    * Grokking Algorithms: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+    * Master Data Structures & Algorithms
+    * Python: https://www.udemy.com/course/data-structures-algorithms-python/learn/lecture/27644494#overview
+    * Javascript: https://www.udemy.com/course/data-structures-algorithms-javascript/learn/lecture/25070954#overview
     * The Algorithm Design Manual: https://algs4.cs.princeton.edu/
     * Data Structures and Algorithms: Deep Dive Using Java: [https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/)
 * **Books:**
