@@ -46,6 +46,9 @@
     * Triplebyte [https://connect.karat.com/tb-welcome](https://connect.karat.com/tb-welcome)
     * Codementor [https://www.codementor.io/](https://www.codementor.io/)
     * Interviewing.io [https://interviewing.io/](https://interviewing.io/)
+* **Books:**
+    * "Elements of Programming Interviews in Java" by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+    * "Elements of Programming Interviews in C++" by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 
 **Week 9: Concurrency and Multithreading (if applicable to your role)**
 
