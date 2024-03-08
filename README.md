@@ -56,7 +56,7 @@
 
 * **Online Courses:**
     * Concurrency for Developers: https://www.coursera.org/learn/concurrent-programming-in-java
-    * Java Concurrency Tutorial: https://docs.oracle.com/javase/tutorial/essential/concurrency/
+    * Java Concurrency Tutorial: [https://docs.oracle.com/javase/tutorial/essential/concurrency/](https://www.youtube.com/watch?v=mTGdtC9f4EU&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4)
     * Introduction to Concurrency in Python: https://realpython.com/learning-paths/python-concurrency-parallel-programming/
 * **Books:**
     * "Effective Java" by Joshua Bloch
